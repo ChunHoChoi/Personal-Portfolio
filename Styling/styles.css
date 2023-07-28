@@ -104,6 +104,8 @@ nav ul li {
   width: 35.5rem;
   margin: 2.5rem;
   border-radius: 7.5px;
+  background-color: #fff;
+  box-shadow: 0 3px 10px var(--primary-shadow);
 }
 
 .bio {
